@@ -40,3 +40,5 @@ Welcome to my GitHub profile!
 ---
 
 *Let's connect, share, and make cool stuff together!*
+
+![snake gif](https://github.com/AndrewV28/AndrewV28/blob/output/github-snake-dark.svg)
