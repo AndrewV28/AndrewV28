@@ -16,10 +16,10 @@ Welcome to my GitHub profile!
 ## 💻 Technical Skills
 
 - **Programming:**  
-  - 🟢 Javascript (semi-good!)  
-  - 🟠 Python (semi-good!)  
-  - 🔵 C++ (ok!)  
-  - 🟣 HTML (a little!)
+  - 🟢 Javascript (Good!)  
+  - 🟠 Python (Good!)  
+  - 🔵 C++ (A little!)  
+  - 🟣 HTML (Ok!)
 
 - **CAD & Design:**  
   - Fusion 360  
